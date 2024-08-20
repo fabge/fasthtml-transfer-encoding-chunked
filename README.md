@@ -1,4 +1,4 @@
-# fasthtml-sse
+# fasthtml-transfer-encoding-chunked
 
 This example implements a chatbot. Most parts are copied from the [fasthtml chatbot example](https://github.com/AnswerDotAI/fasthtml-example/blob/main/02_chatbot/README.md).  
 
